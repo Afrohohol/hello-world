@@ -1,2 +1,3 @@
 # hello-world
-lesson.py
+
+Starting to build-up repository
